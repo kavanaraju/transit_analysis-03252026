@@ -2,7 +2,7 @@
 
 Interactive visualization exploring how U.S. transit agencies responded to gas price shocks in 2008 and 2022, and what that implies for network resilience during the current crisis.
 
-**[View the chart](https://kavana.github.io/transit_analysis-03252026/transit_shock_analysis.html)**
+**[View the chart](https://kavanaraju.github.io/transit_analysis-03252026/transit_shock_analysis.html)**
 
 ## Data sources
 - [FTA National Transit Database](https://www.transit.dot.gov/ntd/data-product/monthly-module-adjusted-data-release) — Monthly Module, January 2026 release
